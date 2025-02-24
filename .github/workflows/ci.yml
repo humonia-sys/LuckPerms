@@ -1,4 +1,4 @@
-name: Build Gradle and Publish Docker image
+name: Build Gradle and Publish Docker image test
 
 on:
   push:
